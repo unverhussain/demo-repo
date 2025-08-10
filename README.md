@@ -1,3 +1,3 @@
 # demo-repo
 this is my 1st repo to learn git and git hub
-Author : Muhammad Anwer Hussain
+Author : Muhammad Anwer Hussain (checking first commit)
